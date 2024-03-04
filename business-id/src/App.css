@@ -1,0 +1,63 @@
+@import url('https://fonts.cdnfonts.com/css/helveticafortarget-bold');
+
+/* .App {
+  text-align: center;
+} */
+body{
+  background-color:black;
+  font-family: Arial;
+  padding: 100px;
+  color: antiquewhite;
+  font-family: 'HelveticaforTarget-Bold', sans-serif;
+}
+.myPhoto{
+  justify-items: center;
+  width: 400px;
+  
+}
+.about,.interest{
+  /* width: 450px; */
+  /* padding-left: 650px; */
+  /* text-align:justify; */
+  font-weight: bold;
+  
+}
+h1,h2{
+  text-decoration: underline;
+}
+
+.b1{
+  margin-right: 10px;
+  width: 150px;
+  height: 50px;
+  font-size: 18px;
+  align-items: center;
+  background-color: green;
+  border-radius: 30px;
+  color: antiquewhite;
+  font-weight: bold;
+  
+  
+}
+.b2{
+  width: 150px;
+  height: 50px;
+  font-size:18px ;
+  align-items: center;
+  background-color: green;
+  border-radius: 30px;
+  color: antiquewhite;
+  font-weight: bold;
+  font-family: arial;
+
+}
+
+.img1,.img2{
+  margin-right:10px;
+  width : 30px;
+  height:20px;
+  
+}
+  
+
+
